@@ -101,8 +101,6 @@ The chorale generation process:
 ## Results
 - **Test Loss**: ~0.0089 (MSE)
 - **Test MAE**: ~0.0677
-- Successfully generates coherent four-part harmonies
-- Maintains voice independence and proper voice leading
 - Generated chorales exhibit Bach-like harmonic progressions
 
 ### Audio Generation
@@ -180,6 +178,3 @@ Potential enhancements for this project include:
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-jupyter>=1.0.0
-ipython>=7.0.0
-scikit-learn>=1.0.0
