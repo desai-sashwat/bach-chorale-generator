@@ -1,0 +1,72 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python egg files
+*.egg-info/
+*.egg
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.manifest
+*.spec
+
+# TensorFlow/Keras
+*.h5
+*.hdf5
+logs/
+checkpoints/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Large data files (uncomment if you want to exclude)
+# *.csv
+# *.midi
+# *.mid
+
+# Audio files (uncomment if generated locally and don't want in repo)
+# *.wav
+# *.mp3
