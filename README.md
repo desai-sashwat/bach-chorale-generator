@@ -58,6 +58,7 @@ The implementation uses an LSTM-based neural network to model sequential pattern
 - **output/** - Generated chorales
   - **generated_chorale.csv** - Sample generated chorale output
   - **placeholder.md** - Placeholder file
+- **.gitignore/** - Gitignore file
 - **LICENSE** - MIT License
 - **README.md** - Project documentation
 
