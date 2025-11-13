@@ -61,6 +61,7 @@ The implementation uses an LSTM-based neural network to model sequential pattern
 - **.gitignore/** - Gitignore file
 - **LICENSE** - MIT License
 - **README.md** - Project documentation
+- **requirements.txt** - Requirements
 
 ## Implementation Details
 
